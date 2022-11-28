@@ -1,4 +1,4 @@
 - 🌐 Hi, we're @WolveIT
-- ✨ With our flexible platform and integrations with checkout systems, you can produce loyalty apps with your own brand at a reasonable price
+- ✨ With our flexible platform you can produce loyalty apps with your own brand at a reasonable price
 - 🌱 We focus on sustainability, and help others remove their carbon footprint
 - 📫 You can reach us at post@wolve.no
